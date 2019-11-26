@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 
-
+// login fct
 void login() {
     int authenticated=0;
     char pw[4];
